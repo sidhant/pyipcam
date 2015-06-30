@@ -1,0 +1,1 @@
+This is my first Python Project. It decodes the mjpeg stream found on many ip cameras and searches for motion.
